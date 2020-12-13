@@ -41,6 +41,7 @@
   }
   #showcase .showcase-container {
     margin-top: -100px;
+    height: 90vh;
   }
   #main-footer .footer-container div img {
     /* padding-left: 50px; */
