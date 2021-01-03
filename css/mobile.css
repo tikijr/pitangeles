@@ -9,13 +9,14 @@
 }
 
 #main-nav ul,
-#main-nav .logo {
+#main-nav img {
   justify-self: center;
 }
 
-#main-nav .logo {
-  margin-left: 60px;
-  width: rem;
+#main-nav img {
+  margin: auto;
+  display: block;
+  width: auto;
 }
 
 #main-nav ul li a {
